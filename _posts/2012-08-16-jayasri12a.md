@@ -1,0 +1,24 @@
+---
+title: Learning of Bi-ω Languages from Factors
+abstract: Higuera and Janodet (2001) gave a polynomial algorithm that identifies the
+  class of safe ω-languages which is a subclass of deterministic ω-languages from
+  positive and negative prefixes. As an extension of this work we study the learning
+  of the family of bi-ω languages.
+pdf: "./jayasri12a/jayasri12a.pdf"
+layout: inproceedings
+key: jayasri12a
+month: 0
+firstpage: 139
+lastpage: 144
+origpdf: http://jmlr.org/proceedings/papers/v21/jayasri12a/jayasri12a.pdf
+sections: 
+authors:
+- given: M.
+  family: Jayasrirani
+- given: M. H.
+  family: Begam
+- given: D. G. Thomas
+  family: D.G
+- given: J. D.
+  family: Emerald
+---

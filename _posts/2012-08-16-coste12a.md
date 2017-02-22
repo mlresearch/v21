@@ -1,0 +1,33 @@
+---
+title: Locally Substitutable Languages for Enhanced Inductive Leaps
+abstract: Genomic banks are fed continuously by large sets of DNA or RNA sequences
+  coming from high throughput machines.  Protein annotation is a task of first importance
+  with respect to these banks.  It consists of retrieving the genes that code for
+  proteins within the sequences and then predict the function of these new proteins
+  in the cell by comparison with known families.  Many methods have been designed
+  to characterize protein families and discover new members, mainly based on subsets
+  of regular expressions or simple Hidden Markov Models.  We are interested in more
+  expressive models that are able to capture the long-range characteristic interactions
+  occurring in the spatial structure of the analyzed protein family. Starting from
+  the work of Clark and Eyraud (2007) and Yoshinaka (2008) on inference of substitutable
+  and \emph{k,l}-substitutable languages respectively, we introduce new classes of
+  substitutable languages using local rather than global substitutability, a reasonable
+  assumption with respect to protein structures to enhance inductive leaps performed
+  by least generalized generalization approaches. The concepts are illustrated on
+  a first experiment using a real proteic sequence set.
+pdf: "./coste12a/coste12a.pdf"
+layout: inproceedings
+key: coste12a
+month: 0
+firstpage: 97
+lastpage: 111
+origpdf: http://jmlr.org/proceedings/papers/v21/coste12a/coste12a.pdf
+sections: 
+authors:
+- given: FranÃ§ois
+  family: Coste
+- given: Gaëlle
+  family: Garet
+- given: Jacques
+  family: Nicolas
+---

@@ -7,6 +7,9 @@ volume: 21
 year: '2012'
 address: University of Maryland, College Park, MD, USA
 month: 0
+start: 2012-09-05
+end: 2012-09-08
+published: 2012-08-16
 shortname: ICGI 2012
 sections:
 - name: preface

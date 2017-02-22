@@ -1,0 +1,26 @@
+---
+title: Inference of k-Testable Directed Acyclic Graph Languages
+abstract: In this paper, we tackle the task of graph language learning. We   first
+  extend the well-known classes of \emph{k-testability} and   \emph{k-testability
+  in the strict sense} languages to directed graph   languages. Second, we propose
+  a graph automata model for directed   acyclic graph languages. This graph automata
+  model is used to   propose a grammatical inference algorithm to learn the class
+  of   directed acyclic \emph{k}-testable in the strict sense graph   languages. The
+  algorithm runs in polynomial time and identifies this   class of languages from
+  positive data.
+pdf: "./lopez12a/lopez12a.pdf"
+layout: inproceedings
+key: lopez12a
+month: 0
+firstpage: 149
+lastpage: 163
+origpdf: http://jmlr.org/proceedings/papers/v21/lopez12a/lopez12a.pdf
+sections: 
+authors:
+- given: DamiÃ¡n
+  family: LÃ³pez
+- given: Jorge
+  family: Calera-Rubio
+- given: Javier
+  family: Gallego-SÃ¡nchez
+---
