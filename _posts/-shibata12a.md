@@ -1,0 +1,22 @@
+---
+title: Marginalizing Out Transition Probabilities for Several Subclasses of PFAs
+abstract: 'A Bayesian manner which marginalizes transition probabilities can be generally
+  applied to various kinds of probabilistic finite state machine models. Based on
+  such a Bayesian manner, we implemented and compared three algorithms: variable-length
+  gram, state merging method for PDFAs, and collapsed Gibbs sampling for PFAs. Among
+  those, collapsed Gibbs sampling for PFAs performed the best on the data from the
+  pre-competition stage of PAutomaC, although it consumes large computation resources.'
+pdf: "./shibata12a/shibata12a.pdf"
+layout: inproceedings
+key: shibata12a
+month: 0
+firstpage: 259
+lastpage: 263
+origpdf: http://jmlr.org/proceedings/papers/v21/shibata12a/shibata12a.pdf
+sections: 
+authors:
+- given: Chihiro
+  family: Shibata
+- given: Ryo
+  family: Yoshinaka
+---

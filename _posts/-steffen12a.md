@@ -1,0 +1,30 @@
+---
+title: 'Active Automata Learning: From DFAs to Interface Programs and Beyond'
+abstract: 'This paper reviews the development of active learning in the last decade
+  under the perspective of treating of data, a major source of undecidability, and
+  therefore a key problem to achieve practicality. Starting with the first case studies,
+  in which data was completely disregarded, we revisit different steps towards dealing
+  with data explicitly in active learning: We discuss Mealy Machines as a model for
+  systems with (data) output, automated alphabet abstraction refinement as a two-dimensional
+  extension of the partition-refinement based approach of active learning for inferring
+  not only states but also optimal alphabet abstractions, and Register Mealy Machines,
+  which can be regarded as programs restricted to data-independent data processing
+  as it is typical for protocols or interface programs. We are convinced that this
+  development has the potential to transform active automata learning into a technology
+  of high practical importance.'
+pdf: "./steffen12a/steffen12a.pdf"
+layout: inproceedings
+key: steffen12a
+month: 0
+firstpage: 195
+lastpage: 209
+origpdf: http://jmlr.org/proceedings/papers/v21/steffen12a/steffen12a.pdf
+sections: 
+authors:
+- given: Bernhard
+  family: Steffen
+- given: Falk
+  family: Howar
+- given: Malte
+  family: Isberner
+---
