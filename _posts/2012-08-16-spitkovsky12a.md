@@ -16,17 +16,20 @@ abstract: 'Modern grammar induction systems often employ curriculum learning str
   corpus: more than 2\% higher than previous published results for this task.'
 pdf: "./spitkovsky12a/spitkovsky12a.pdf"
 layout: inproceedings
-key: spitkovsky12a
+id: spitkovsky12a
 month: 0
 firstpage: 189
 lastpage: 194
+page: 189-194
 origpdf: http://jmlr.org/proceedings/papers/v21/spitkovsky12a/spitkovsky12a.pdf
 sections: 
-authors:
+author:
 - given: Valentin I.
   family: Spitkovsky
 - given: Hiyan
   family: Alshawi
 - given: Daniel
   family: Jurafsky
+date: '2012-08-16 00:03:09'
+publisher: PMLR
 ---

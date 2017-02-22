@@ -5,6 +5,7 @@ booktitle: Proceedings of the Eleventh International Conference on Grammatical I
 publisher: JMLR Workshop and Conference Proceedings
 volume: 21
 year: '2012'
+logoright: basic_files/ICGI2012-logo.png
 address: University of Maryland, College Park, MD, USA
 month: 0
 start: 2012-09-05
@@ -17,11 +18,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: HeinzICGI2012
+id: HeinzICGI2012
 abstract: 
 origpdf: 
 pdf: "./HeinzICGI2012/HeinzICGI2012.pdf"
-editors:
+editor:
 - given: Jeffrey
   family: Heinz
 - given: Colin
