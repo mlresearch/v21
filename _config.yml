@@ -6,7 +6,6 @@ publisher: JMLR Workshop and Conference Proceedings
 volume: 21
 year: '2012'
 logoright: basic_files/ICGI2012-logo.png
-address: University of Maryland, College Park, MD, USA
 month: 0
 start: 2012-09-05
 end: 2012-09-08
@@ -19,9 +18,9 @@ sections:
   title: Accepted Papers
 layout: proceedings
 id: HeinzICGI2012
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./HeinzICGI2012/HeinzICGI2012.pdf"
+pdf: http://proceedings.pmlr.press/HeinzICGI2012/HeinzICGI2012.pdf
 editor:
 - given: Jeffrey
   family: Heinz
@@ -30,7 +29,6 @@ editor:
 - given: Tim
   family: Oates
 title: Proceedings of the Eleventh International Conference on Grammatical Inference
-conference: Proceedings of the Eleventh International Conference on Grammatical Inference
 email: ''
 description: Proceedings of the Eleventh International Conference on Grammatical Inference,
   University of Maryland, College Park, MD, USA
@@ -40,8 +38,18 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v21
+conference:
+  name: 
+  url: 
+  location: University of Maryland, College Park, MD, USA
+  dates:
+  - 2012-09-05
+  - 2012-09-06
+  - 2012-09-07
+  - 2012-09-08
 analytics:
   google:
     tracking_id: UA-92432422-1
