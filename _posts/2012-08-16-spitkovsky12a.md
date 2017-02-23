@@ -31,6 +31,7 @@ author:
 - given: Daniel
   family: Jurafsky
 date: 2012-08-16
+address: University of Maryland, College Park, MD, USA
 publisher: PMLR
 container-title: Proceedings of the Eleventh International Conference on Grammatical
   Inference
