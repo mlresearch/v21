@@ -14,14 +14,13 @@ abstract: 'Modern grammar induction systems often employ curriculum learning str
   new, bare dependency-and-boundary model (DBM-0), our grammar inducer attained 61.2%
   directed dependency accuracy on Section 23 (all sentences) of the Wall Street Journal
   corpus: more than 2% higher than previous published results for this task.'
-pdf: http://proceedings.pmlr.press/spitkovsky12a/spitkovsky12a.pdf
+pdf: http://jmlr.org/proceedings/papers/v21/spitkovsky12a/spitkovsky12a.pdf
 layout: inproceedings
 id: spitkovsky12a
 month: 0
 firstpage: 189
 lastpage: 194
 page: 189-194
-origpdf: http://jmlr.org/proceedings/papers/v21/spitkovsky12a/spitkovsky12a.pdf
 sections: 
 author:
 - given: Valentin I.
@@ -30,6 +29,7 @@ author:
   family: Alshawi
 - given: Daniel
   family: Jurafsky
+reponame: v21
 date: 2012-08-16
 address: University of Maryland, College Park, MD, USA
 publisher: PMLR

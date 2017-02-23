@@ -19,8 +19,6 @@ sections:
 layout: proceedings
 id: HeinzICGI2012
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/HeinzICGI2012/HeinzICGI2012.pdf
 editor:
 - given: Jeffrey
   family: Heinz
