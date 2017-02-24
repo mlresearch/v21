@@ -16,6 +16,7 @@ abstract: 'Modern grammar induction systems often employ curriculum learning str
   corpus: more than 2% higher than previous published results for this task.'
 pdf: http://proceedings.mlr.press/v21/spitkovsky12a/spitkovsky12a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: spitkovsky12a
 month: 0
 firstpage: 189
