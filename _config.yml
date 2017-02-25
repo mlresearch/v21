@@ -40,6 +40,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 5--08 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v21"
 twitter_username: mlresearch
@@ -49,6 +50,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v21
+bibtex_copy: true
 email: ''
 conference:
   name: International Conference on Grammatical Inference
