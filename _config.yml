@@ -25,10 +25,20 @@ editor:
   family: Higuera
 - given: Tim
   family: Oates
-title: Proceedings of the Eleventh International Conference on Grammatical Inference
-email: ''
-description: Proceedings of the Eleventh International Conference on Grammatical Inference,
-  University of Maryland, College Park, MD, USA
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Eleventh International Conference on Grammatical Inference
+    Held in University of Maryland, College Park, MD, USA on 5-08 September 2012
+
+  Published as Volume 21 by the Proceedings of Machine Learning Research on 16 August 2012.
+
+  Volume Edited by:
+    Jeffrey Heinz
+    Colin Higuera
+    Tim Oates
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v21"
 twitter_username: mlresearch
@@ -38,6 +48,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v21
+email: ''
 conference:
   name: International Conference on Grammatical Inference
   url: 
