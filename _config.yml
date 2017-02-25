@@ -29,7 +29,7 @@ editor:
   family: Oates
 description: |
   Proceedings of the Eleventh International Conference on Grammatical Inference
-    Held in University of Maryland, College Park, MD, USA on 5-08 September 2012
+    Held in University of Maryland, College Park, MD, USA on 05-08 September 2012
 
   Published as Volume 21 by the Proceedings of Machine Learning Research on 16 August 2012.
 
@@ -40,7 +40,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
-date_str: 5--08 Sep
+date_str: 05--08 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v21"
 twitter_username: mlresearch
