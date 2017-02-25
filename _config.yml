@@ -18,6 +18,8 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: HeinzICGI2012
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Jeffrey
   family: Heinz
@@ -25,7 +27,6 @@ editor:
   family: Higuera
 - given: Tim
   family: Oates
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eleventh International Conference on Grammatical Inference
     Held in University of Maryland, College Park, MD, USA on 5-08 September 2012
