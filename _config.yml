@@ -20,6 +20,7 @@ id: HeinzICGI2012
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: false
 editor:
 - given: Jeffrey
   family: Heinz
@@ -50,9 +51,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v21
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: International Conference on Grammatical Inference

@@ -24,7 +24,8 @@ tex_title: Bootstrapping Dependency Grammar Inducers from Incomplete Sentence Fr
 firstpage: 189
 lastpage: 194
 page: 189-194
-sections: 
+order: 189
+cycles: false
 author:
 - given: Valentin I.
   family: Spitkovsky
