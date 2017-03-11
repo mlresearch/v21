@@ -17,9 +17,6 @@ sections:
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: HeinzICGI2012
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Jeffrey
@@ -28,6 +25,7 @@ editor:
   family: Higuera
 - given: Tim
   family: Oates
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eleventh International Conference on Grammatical Inference
     Held in University of Maryland, College Park, MD, USA on 05-08 September 2012
@@ -44,7 +42,7 @@ description: |
 date_str: 05--08 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v21"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -56,6 +54,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -72,3 +71,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v21.bib
+---
